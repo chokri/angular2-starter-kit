@@ -1,5 +1,7 @@
 # Angular2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chokri/angular2-starter-kit.svg)](https://greenkeeper.io/)
+
 To get this package we need to install angular-cli
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
